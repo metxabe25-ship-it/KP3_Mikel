@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mikel\\Downloads\\3POO_5PorraMikel\\3POO_5Porra\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3DB6C41-5779-4CED-BC3D-C648C92093BF}|3POO_5.csproj|c:\\users\\mikel\\downloads\\3poo_5porramikel\\3poo_5porra\\docfx.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C3DB6C41-5779-4CED-BC3D-C648C92093BF}|3POO_5.csproj|solutionrelative:docfx.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3DB6C41-5779-4CED-BC3D-C648C92093BF}|3POO_5.csproj|c:\\users\\mikel\\downloads\\3poo_5porramikel\\3poo_5porra\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3DB6C41-5779-4CED-BC3D-C648C92093BF}|3POO_5.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3DB6C41-5779-4CED-BC3D-C648C92093BF}|3POO_5.csproj|c:\\users\\mikel\\downloads\\3poo_5porramikel\\3poo_5porra\\porra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3DB6C41-5779-4CED-BC3D-C648C92093BF}|3POO_5.csproj|solutionrelative:porra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 47,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "docfx.json",
+              "DocumentMoniker": "C:\\Users\\mikel\\Downloads\\3POO_5PorraMikel\\3POO_5Porra\\docfx.json",
+              "RelativeDocumentMoniker": "docfx.json",
+              "ToolTip": "C:\\Users\\mikel\\Downloads\\3POO_5PorraMikel\\3POO_5Porra\\docfx.json",
+              "RelativeToolTip": "docfx.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-04T08:35:03.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Porra.cs",
+              "DocumentMoniker": "C:\\Users\\mikel\\Downloads\\3POO_5PorraMikel\\3POO_5Porra\\Porra.cs",
+              "RelativeDocumentMoniker": "Porra.cs",
+              "ToolTip": "C:\\Users\\mikel\\Downloads\\3POO_5PorraMikel\\3POO_5Porra\\Porra.cs",
+              "RelativeToolTip": "Porra.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAA3wFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T12:02:48.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mikel\\Downloads\\3POO_5PorraMikel\\3POO_5Porra\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\mikel\\Downloads\\3POO_5PorraMikel\\3POO_5Porra\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAA4wKwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T12:02:48.954Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
