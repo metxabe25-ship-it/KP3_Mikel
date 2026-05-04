@@ -6,7 +6,8 @@
     <RootNamespace>_3POO_5</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+	<GenerateDocumentationFile>true</GenerateDocumentationFile>
+	<ErrorReport>queue</ErrorReport>
   </PropertyGroup>
 
 </Project>

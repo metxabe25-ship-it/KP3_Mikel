@@ -9,7 +9,7 @@ namespace _3POO_5
     /// <summary>
     /// Porra baten informazioa eta portaera definitzen duen klasea.
     /// </summary>
-    class Porra
+    public class Porra
     {
         private string izena, irabazlea, finalista, goleatzailea;
         private int puntuak;

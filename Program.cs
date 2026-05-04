@@ -3,7 +3,7 @@
     /// <summary>
     /// Programaren klase nagusia.
     /// </summary>
-    class Program
+    public class Program
     {
         /// <summary>
         /// Porra zerrenda gordetzen duen lista estatikoa.
