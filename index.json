@@ -1,0 +1,32 @@
+{
+  "api/_3POO_5.Porra.html": {
+    "href": "api/_3POO_5.Porra.html",
+    "title": "Class Porra | MikelKP",
+    "summary": "Class Porra Namespace _3POO_5 Assembly 3POO_5.dll Porra baten informazioa eta portaera definitzen duen klasea. public class Porra Inheritance object Porra Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) Constructors Porra(string, string, string, string, int) Porra objektu berri bat sortzen du. public Porra(string i, string ir, string fi, string go, int p) Parameters i string Izena. ir string Irabazlea. fi string Finalista. go string Goleatzailea. p int Hasierako puntuak. Properties Finalista public string Finalista { get; set; } Property Value string Goleatzailea public string Goleatzailea { get; set; } Property Value string Irabazlea public string Irabazlea { get; set; } Property Value string Izena public string Izena { get; set; } Property Value string Puntuak public int Puntuak { get; set; } Property Value int Methods AsmatuBiFinalistak() Bi finalistak asmatu badira puntuak gehitzen ditu. public int AsmatuBiFinalistak() Returns int Eguneratutako puntuak. AsmatuIrabazlea() Irabazlea asmatu bada puntuak gehitzen ditu. public int AsmatuIrabazlea() Returns int Eguneratutako puntuak. Goleko() Goleatzailea asmatu bada puntuak gehitzen ditu. public int Goleko() Returns int Eguneratutako puntuak. Pantailaratu() Porra baten informazioa testu moduan itzultzen du pantailan erakusteko. public string Pantailaratu() Returns string Porra-ren deskribapena. ToString() Porra objektua testu kate batean bihurtzen du fitxategian gordetzeko. public override string ToString() Returns string Testu formatuko porra."
+  },
+  "api/_3POO_5.Program.html": {
+    "href": "api/_3POO_5.Program.html",
+    "title": "Class Program | MikelKP",
+    "summary": "Class Program Namespace _3POO_5 Assembly 3POO_5.dll Programaren klase nagusia. public class Program Inheritance object Program Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString()"
+  },
+  "api/_3POO_5.html": {
+    "href": "api/_3POO_5.html",
+    "title": "Namespace _3POO_5 | MikelKP",
+    "summary": "Namespace _3POO_5 Classes Porra Porra baten informazioa eta portaera definitzen duen klasea. Program Programaren klase nagusia."
+  },
+  "docs/getting-started.html": {
+    "href": "docs/getting-started.html",
+    "title": "Getting Started | MikelKP",
+    "summary": "Getting Started"
+  },
+  "docs/introduction.html": {
+    "href": "docs/introduction.html",
+    "title": "Introduction | MikelKP",
+    "summary": "Introduction"
+  },
+  "index.html": {
+    "href": "index.html",
+    "title": "This is the HOMEPAGE. | MikelKP",
+    "summary": "This is the HOMEPAGE. Refer to Markdown for how to write markdown files. Quick Start Notes: Add images to the images folder if the file is referencing an image."
+  }
+}
